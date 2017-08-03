@@ -8,3 +8,4 @@ checkpoint
 *.pb
 *.data-*
 .ipynb_checkpoints
+datasets
