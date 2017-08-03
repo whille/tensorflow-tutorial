@@ -1,4 +1,10 @@
 *~
 *.pyc
 .DS_Store
-
+checkpoint
+*.index
+*.meta
+*.meta.*
+*.pb
+*.data-*
+.ipynb_checkpoints
